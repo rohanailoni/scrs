@@ -1,1 +1,1 @@
-web: gunicorn scrs.wsgi --log-file -
+web: gunicorn scrs1.wsgi --log-file -
